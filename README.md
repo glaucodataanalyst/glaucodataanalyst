@@ -1,4 +1,5 @@
-![Banner](tela%20fundo%20linkedin.jpg)
+![Banner](banner_linkedin.jpg)
+
 
 # 📊 Glauco Runha Piccolo Figlioli  
 
