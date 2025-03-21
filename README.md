@@ -1,13 +1,16 @@
 ![Banner](banner_linkedin.jpg)
 
-
 # 📊 Glauco Runha Piccolo Figlioli  
 
 **Data Analyst | Business Intelligence | Data-Driven Management**  
 
-Hi! I'm Glauco, a professional passionate about data, artificial intelligence, and their impact on strategic decision-making. My journey in the data world started in **people management, working as a team leader in the railway sector**. Over time, I realized that the best way to lead is not just based on experience but on solid data and cutting-edge technology.  
+👋 Hi! I'm Glauco — passionate about data, AI, and transforming information into strategic decisions.  
 
-This insight led me to dive into the world of **Data Analysis, Artificial Intelligence (AI), Business Intelligence (BI), and Business Analytics (BA)**. What started as a tool to enhance team performance and processes quickly became my passion. Today, I am further specializing with a **postgraduate degree in Data Science** and various courses focused on **KPIs, Lean Six Sigma, data modeling, and data-driven processes**. Additionally, I leverage powerful tools such as **Git, GitHub, VSCode, Jupyter Notebook, and Google Colab** to streamline workflows and enhance productivity.  
+I started my journey leading teams in the railway sector, where I realized that well-utilized data is more powerful than experience alone.  
+
+Today, I dive deep into Data Science, BI, BA, and AI, pursuing a postgraduate degree in the field with a focus on KPI monitoring, modeling, and data-driven processes.  
+
+🚀 In my daily work, I use Python with VSCode/Jupyter, version control with Git/GitHub, and continuously optimize solutions with a focus on performance and impact.  
 
 ### 🔹 **What I Do:**  
 ✅ Develop interactive dashboards and reports using **Power BI, Excel, and Google Data Studio**  
@@ -16,7 +19,7 @@ This insight led me to dive into the world of **Data Analysis, Artificial Intell
 ✅ Automate and optimize processes using **Python, SQL, and AI-driven solutions**  
 ✅ Apply **Lean Six Sigma** methodologies for continuous improvement  
 ✅ Utilize **Git and GitHub** for version control and project collaboration  
-✅ Work efficiently with **VSCode, Jupyter Notebook, and Google Colab** for data analysis and AI development  
+✅ Work efficiently with **VSCode, Jupyter Notebook** for data analysis and AI development  
 
 📊 **My Mission:** Transforming data into **powerful insights**, making analysis more accessible, efficient, and strategic for companies.  
 
@@ -32,9 +35,13 @@ This insight led me to dive into the world of **Data Analysis, Artificial Intell
 
 **Analista de Dados | Business Intelligence | Gestão Data-Driven**  
 
-Olá! Sou Glauco, um profissional apaixonado por dados, inteligência artificial e pelo impacto que eles podem gerar na tomada de decisões estratégicas. Minha jornada no mundo dos dados começou na **gestão de pessoas atuando como team leader no setor ferroviário**. Com o tempo, percebi que a melhor forma de liderar não é baseada apenas na experiência, mas sim em dados concretos e no uso das melhores tecnologias disponíveis.  
+👋 Olá! Sou o Glauco — apaixonado por dados, IA e por transformar informação em decisões estratégicas.  
 
-Esse insight me levou a mergulhar no mundo da **Análise de Dados, Inteligência Artificial (IA), Business Intelligence (BI) e Business Analytics (BA)**. O que começou como uma ferramenta para melhorar processos e desempenho do time, rapidamente se tornou minha paixão. Hoje, estou me especializando ainda mais com uma **pós-graduação em Ciência de Dados** e diversos cursos focados em **KPIs, Lean Six Sigma, modelagem de dados e processos data-driven**. Além disso, utilizo ferramentas como **Git, GitHub, VSCode, Jupyter Notebook e Google Colab** para otimizar fluxos de trabalho e maximizar a produtividade.  
+Iniciei minha jornada liderando equipes no setor ferroviário, onde percebi: dados bem utilizados são mais poderosos que apenas experiência.  
+
+Hoje, mergulho fundo em Data Science, BI, BA e IA, com pós-graduação na área e enfoque em monitoramento de KPIs, modelagem e processos data-driven.  
+
+🚀 No dia a dia, utilizo Python com VSCode/Jupyter, versiono com Git/GitHub e estou sempre otimizando soluções com foco em performance e impacto.  
 
 ### 🔹 **O que eu faço:**  
 ✅ Construção de dashboards e relatórios interativos em **Power BI, Excel e Google Data Studio**  
@@ -43,12 +50,12 @@ Esse insight me levou a mergulhar no mundo da **Análise de Dados, Inteligência
 ✅ Automação e otimização de processos com **Python, SQL e soluções baseadas em IA**  
 ✅ Aplicação de metodologias **Lean Six Sigma** para melhoria contínua  
 ✅ Uso de **Git e GitHub** para controle de versão e colaboração em projetos  
-✅ Trabalho eficiente com **VSCode, Jupyter Notebook e Google Colab** para análise de dados e desenvolvimento em IA  
+✅ Trabalho eficiente com **VSCode, Jupyter Notebook** para análise de dados e desenvolvimento em IA  
 
 📊 **Minha missão:** Transformar dados em **insights poderosos**, tornando a análise mais acessível, eficiente e estratégica para as empresas.  
 
 📊 **Buscando sempre aprender e evoluir no universo dos dados!**  
 
-📬 **Vamos trocar uma ideia?**  
+📬 **Vamos conectar?**  
 📌 LinkedIn: [www.linkedin.com/in/glaucopiccolofiglioli](https://www.linkedin.com/in/glaucopiccolofiglioli)  
 📩 E-mail: glauco.dataanalyst@gmail.com  
