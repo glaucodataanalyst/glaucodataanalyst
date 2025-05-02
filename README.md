@@ -26,6 +26,7 @@ Today, I dive deep into Data Science, BI, BA, and AI, pursuing a postgraduate de
 📊 **Always learning and evolving in the data universe!**  
 
 📬 **Let’s connect!**  
+📌 Kaggle: [www.kaggle.com/glaucofiglioli](https://www.kaggle.com/glaucofiglioli)  
 📌 LinkedIn: [www.linkedin.com/in/glaucopiccolofiglioli](https://www.linkedin.com/in/glaucopiccolofiglioli)  
 📩 Email: glauco.dataanalyst@gmail.com  
 
@@ -57,5 +58,6 @@ Hoje, mergulho fundo em Data Science, BI, BA e IA, com pós-graduação na área
 📊 **Buscando sempre aprender e evoluir no universo dos dados!**  
 
 📬 **Vamos conectar?**  
+📌 Kaggle: [www.kaggle.com/glaucofiglioli](https://www.kaggle.com/glaucofiglioli)  
 📌 LinkedIn: [www.linkedin.com/in/glaucopiccolofiglioli](https://www.linkedin.com/in/glaucopiccolofiglioli)  
 📩 E-mail: glauco.dataanalyst@gmail.com  
